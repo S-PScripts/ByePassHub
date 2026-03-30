@@ -1,20 +1,22 @@
 ## ByePassHub | Main Hub
-## If you like this collection, make sure to star it! 470+🌟!
+## If you like this collection, make sure to star it! 460+🌟!
 This is a collection of links of proxies, games, exploits, bypasses, AI, movies, and apps.  <br>
 
-FYI: **"Proxies" = "Unblockers"** <br>
-**2100+ Unblockers (Proxies) with Games, AI, and Apps:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or to the mainUnblockers file <br> <br>
-**325+ Games and Game Hubs (Selenite, Phantom Games, Roblox, Minecraft, etc.):** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or go to the Games.md file <br><br>
-**90+ Exploits, Bypasses, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits/README.md) <br><br>
-**15+ Kahoot, Gimkit, Blooket (and more) Cheats:** Go [here](https://github.com/wea-f/ByePassHub//blob/main/Cheats.md) or go to the Cheats.md file. <br> <br>
-**How to make your OWN unblocker link tutorial:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or to go to the MakeYourOwnLink.md file.  <br> <br>
-**20+ Unblocked Search Engines:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/UnblockedSearchEngines.md) or go to the UnblockedSearchEngines.md file. <br> <br>
+FYI: **"Proxies" = "Unblockers"** <br> <br>
+- **2100+ Unblockers (Proxies) with Games, AI, and Apps:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or to the mainUnblockers file <br> <br>
+- To find the **best resources (hubs, google docs, discord servers, etc) for links**, go [here](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md), or the Other Ways to get Proxies file <br> <br>
+- **90+ Exploits, Bypasses, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits/README.md) <br><br>
+- **15+ Kahoot, Gimkit, Blooket (and more) Cheats:** Go [here](https://github.com/wea-f/ByePassHub//blob/main/Cheats.md) or go to the Cheats.md file. <br> <br>
+- **How to make your OWN unblocker link tutorial:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or to go to the MakeYourOwnLink.md file.  <br> <br>
+- **20+ Unblocked Search Engines:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/UnblockedSearchEngines.md) or go to the UnblockedSearchEngines.md file. <br> <br>
+
+## If half the links don't work? Explore [this page](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md) for the latest working proxies, exploits, and games!
+<br>
+
+**325+ [*Outdated! Go to Unblockers!*] Games (Roblox, Minecraft, etc.):** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or go to the Games.md file <br <br>
 **50+ Movies and Anime:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Movies%26Anime.md) or go to the Movies&Anime.md file <br> <br>
 **2100+ Unblockers (Proxies) with Games, AI, and Apps WITHOUT KEY WORDS (or go to BPH google doc):** Go [here](https://github.com/wea-f/ByePassHub/blob/main/encryptedversion.md) or to the encryptedversion file 
-<br> <br>
 
-## If half the links don't work? Explore [this page](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md) for the latest working proxies, exploits, and games
-<br>
 
 [BPH Google Doc](https://docs.google.com/document/d/1BC-_DkqMcnJDN2hQWWZCjB-Gp-U2CVtznrVOIP-mRv4/edit?usp=sharing) if Github is blocked
 
