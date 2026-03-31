@@ -1,6 +1,6 @@
 ## ByePassHub | Main Hub
 ## If you like this collection, make sure to star it!
-[![GitHub stars](https://img.shields.io/github/stars/wea-f/ByePassHub?style=flat&color=brightgreen)](https://github.com/wea-f/ByePassHub/stargazers)    and counting...
+This repo has [![GitHub stars](https://img.shields.io/github/stars/wea-f/ByePassHub?style=flat&color=brightgreen)](https://github.com/wea-f/ByePassHub/stargazers)    and counting...
 
 This is a collection of links of proxies, games, exploits, bypasses, AI, movies, and apps.  <br>
 
