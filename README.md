@@ -9,6 +9,7 @@ FYI: **"Proxies" = "Unblockers"** <br> <br>
 - **15+ Kahoot, Gimkit, Blooket (and more) Cheats:** Go [here](https://github.com/wea-f/ByePassHub//blob/main/Cheats.md) or go to the Cheats.md file. <br> <br>
 - **How to make your OWN unblocker link tutorial:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or to go to the MakeYourOwnLink.md file.  <br> <br>
 - **20+ Unblocked Search Engines:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/UnblockedSearchEngines.md) or go to the UnblockedSearchEngines.md file. <br> <br>
+- **Apple Shortcuts:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Shortcut%20Programs.md) or go to the Shortcut Programs.md file. <br> <br>
 
 ## If half the links don't work? Explore [this page](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md) for the latest working proxies, exploits, and games!
 <br>
