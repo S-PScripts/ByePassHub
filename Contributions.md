@@ -10,3 +10,4 @@
 + General improvements and Link fixes + typo fixes (a bunch)
 + Added Apple shortcuts to the main page
 + Added Live star counter
++ Added Contributions file (for clarity)
