@@ -59,4 +59,11 @@ Alternate Script:
 ```js
 javascript:(function(){let l=document.createElement("script");l.src="https://undercovermoose.github.io/quizizzjs/script.js";document.body.appendChild(l);}());void 0
 ```
-You can run the above scripts in the console or in the inspect element, just remove the `javascript:` part and the `void 0` part at the end.
+To run above scripts in the Console (Inspect element) use these scripts:
+```js
+(function(){let l=document.createElement("script");l.src="https://undercovergoose.github.io/quizlet/quizizz/script.js";document.body.appendChild(l);}());
+```
+Alternate Script:
+```js
+(function(){let l=document.createElement("script");l.src="https://undercovermoose.github.io/quizizzjs/script.js";document.body.appendChild(l);}());
+```
