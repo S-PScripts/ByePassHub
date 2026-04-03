@@ -1,7 +1,7 @@
 ## ByepassHub > Cheats | updated Jul 11
 ## If you like this, make sure to star it!
 **Exploits, Bypasses, Bookmarklest:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits) or go to the Exploits folder. <br>
-**Main Games:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) <br>
+**Main Games:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or go to the Games.md file <br>
 **Downloaders:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Downloaders.md) or go to the Downloaders.md file <br>
 **Unblockers:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file <br>
 **Shortcuts:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Shortcut%20Programs.md) or go to the Shortcut Programs.md file <br>
