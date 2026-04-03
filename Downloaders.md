@@ -15,7 +15,26 @@ This is a collection of links of dowloaders. <br>
 ---
 
 **PRO TIP:** Use multiple url openers, like https://www.openmultipleurl.com/, https://www.openallurls.com/, and https://www.websiteplanet.com/webtools/multiple-url/, to find unblocked links faster! <br>
-  
-<br> <br>
 
-##Cobalt links | Youtube
+**These links can be dangerous. Always be cautious when using downloaders.**
+  
+---
+
+## Cobalt links | Youtube/Tiktok <br>
+Official website: <br>
+https://cobalt.tools/ <br>
+
+Community instances: <br>
+https://cobalt.meowing.de/ ⭐️ <br>
+https://cobalt.canine.tools/ <br>
+https://cobalt.clxxped.lol/ <br>
+https://cobalt.blackcat.sweeux.org/ <br>
+https://cobalt.kittycat.boo/ <br>
+https://cobalt.liubquanti.click/ <br>
+https://cobalt.squair.xyz/
+
+## Spoti downloaders <br>
+https://spotisaver.net/ <br>
+https://spotmate.online/ <br>
+https://spotisave.com/ <br>
+https://spotidost.com/ <br>
