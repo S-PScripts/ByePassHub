@@ -38,34 +38,34 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 <br>
 
 ## Shortcuts & Table of Contents:
-- [Norepted | YT video watcher with history hiding](#norepted-yt-video-watcher-with-history-hiding) | Status: Flourishing 💯
-- [Hypertabs | Web Browser](#hypertabs-web-browser) | Status: Flourishing 💯
+- [Norepted | YT video watcher with history hiding](#norepted--yt-video-watcher-with-history-hiding) | Status: Flourishing 💯
+- [Hypertabs | Web Browser](#hypertabs--web-browser) | Status: Flourishing 💯
 - [AI and Homework Solvers](#ai-and-homework-solvers) | Status: Varying 😬
-- [Other Lists like this one | games, proxies, movies, and even more links | LINKS MAY OR MAY NOT WORK](#other-lists-like-this-one-games-proxies-movies-and-even-more-links-links-may-or-may-not-work) | Status: Varying 😬
-- [Selenite | Gaming and Apps](#selenite-gaming-and-apps) | Status: Stable ✅
-- [Rammerhead | Chrome like proxy](#rammerhead-chrome-like-proxy) | Status: Stable ✅
-- [Utopia | Proxy, Games & AI !!ADS!!](#utopia-proxy-games-ai-ads) | Status: Varying 😬
-- [Truffled | It just works](#truffled-it-just-works) | Status: Stable ✅
-- [Space | Servers in space (not really)](#space-servers-in-space-not-really) | Status: Stable ✅
-- [DayDreamX | (very) Customisable browser](#daydreamx-very-customisable-browser) | Status: Stable ✅
-- [Duckmath | Performance Games](#duckmath-performance-games) | Status: Flourishing 💯
-- [Galaxy v6 | Dark OS](#galaxy-v6-dark-os) | Status: Varying 😬
-- [Infamous | Aio King !!ADS!!](#infamous-aio-king-ads) | Status: Stable ✅
-- [Endis | Can do everythings !!ADS!!](#endis-can-do-everythings-ads) | Status: Varying 😬
-- [Study Hub | Still lacking !!ADS!!](#study-hub-still-lacking-ads) | Status: Varying 😬
-- [Lucide | ...has good AI !!ADS!!](#lucide-has-good-ai-ads) | Status: Stable ✅
-- [VOID | All the tools !!ADS!!](#void-all-the-tools-ads) | Status: Stable ✅
-- [Lunar v2 | Super simple browser](#lunar-v2-super-simple-browser) | Status: Stable ✅
-- [TGLSC | More apps then the app store](#tglsc-more-apps-then-the-app-store) | Status: Stable ✅
-- [Quasar | Basic.](#quasar-basic) | Status: Stable ✅
-- [Awperator | All in one](#awperator-all-in-one) | Status: Stable ✅
-- [Luminal | an OS](#luminal-an-os) | Status: Varying 😬
-- [Shadow v3 | i live in the shadows](#shadow-v3-i-live-in-the-shadows) | Status: Varying 😬
-- [Vapor | a lot of games](#vapor-a-lot-of-games) | Status: Varying 😬
-- [dogeub | Very clean](#dogeub-very-clean) | Status: Stable ✅
-- [Rosin | Multi Country](#rosin-multi-country) | Status: Stable ✅
-- [Noblocc | Insanely stable](#noblocc-insanely-stable) | Status: Flourishing 💯
-- [Fern | is a proxy.](#fern-is-a-proxy) | Status: Flourishing 💯
+- [Other Lists like this one | games, proxies, movies, and even more links | LINKS MAY OR MAY NOT WORK](#other-lists-like-this-one--games-proxies-movies-and-even-more-links--links-may-or-may-not-work) | Status: Varying 😬
+- [Selenite | Gaming and Apps](#selenite--gaming-and-apps) | Status: Stable ✅
+- [Rammerhead | Chrome like proxy](#rammerhead--chrome-like-proxy) | Status: Stable ✅
+- [Utopia | Proxy, Games & AI !!ADS!!](#utopia--proxy-games--ai-ads) | Status: Varying 😬
+- [Truffled | It just works](#truffled--it-just-works) | Status: Stable ✅
+- [Space | Servers in space (not really)](#space--servers-in-space-not-really) | Status: Stable ✅
+- [DayDreamX | (very) Customisable browser](#daydreamx--very-customisable-browser) | Status: Stable ✅
+- [Duckmath | Performance Games](#duckmath--performance-games) | Status: Flourishing 💯
+- [Galaxy v6 | Dark OS](#galaxy-v6--dark-os) | Status: Varying 😬
+- [Infamous | Aio King !!ADS!!](#infamous--aio-king-ads) | Status: Stable ✅
+- [Endis | Can do everythings !!ADS!!](#endis--can-do-everythings-ads) | Status: Varying 😬
+- [Study Hub | Still lacking !!ADS!!](#study-hub--still-lacking-ads) | Status: Varying 😬
+- [Lucide | ...has good AI !!ADS!!](#lucide--has-good-ai-ads) | Status: Stable ✅
+- [VOID | All the tools !!ADS!!](#void--all-the-tools-ads) | Status: Stable ✅
+- [Lunar v2 | Super simple browser](#lunar-v2--super-simple-browser) | Status: Stable ✅
+- [TGLSC | More apps then the app store](#tglsc--more-apps-then-the-app-store) | Status: Stable ✅
+- [Quasar | Basic.](#quasar--basic) | Status: Stable ✅
+- [Awperator | All in one](#awperator--all-in-one) | Status: Stable ✅
+- [Luminal | an OS](#luminal--an-os) | Status: Varying 😬
+- [Shadow v3 | i live in the shadows](#shadow-v3--i-live-in-the-shadows) | Status: Varying 😬
+- [Vapor | a lot of games](#vapor--a-lot-of-games) | Status: Varying 😬
+- [dogeub | Very clean](#dogeub--very-clean) | Status: Stable ✅
+- [Rosin | Multi Country](#rosin--multi-country) | Status: Stable ✅
+- [Noblocc | Insanely stable](#noblocc--insanely-stable) | Status: Flourishing 💯
+- [Fern | is a proxy.](#fern--is-a-proxy) | Status: Flourishing 💯
 
 ---
 
