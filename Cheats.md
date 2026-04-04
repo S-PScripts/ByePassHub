@@ -4,7 +4,7 @@
 **Main Games:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or go to the Games.md file <br>
 **Downloaders:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Downloaders.md) or go to the Downloaders.md file <br>
 **Unblockers:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/mainUnblockers.md) or go to the mainUnblockers.md file <br>
-**Shortcuts:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Shortcut%20Programs.md) or go to the Shortcut Programs.md file <br>
+**Apple Shortcuts:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Shortcut%20Programs.md) or go to the Shortcut Programs.md file <br>
 **Kahoot, Gimkit, Blooket (and more) Cheats:** Go [here](https://github.com/wea-f/ByePassHub//blob/main/Cheats.md) or go to the Cheats.md file. <br>
 **Making your own unblocker link:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or go to the MakeYourOwnLink.md file. <br>
 **Main Hub:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/README.md) or go to the main README.md file <br>
@@ -60,4 +60,11 @@ Alternate Script:
 ```js
 javascript:(function(){let l=document.createElement("script");l.src="https://undercovermoose.github.io/quizizzjs/script.js";document.body.appendChild(l);}());void 0
 ```
-You can run the above scripts in the console or in the inspect element, just remove the `javascript:` part and the `void 0` part at the end.
+To run above scripts in the Console (Inspect element) use these scripts:
+```js
+(function(){let l=document.createElement("script");l.src="https://undercovergoose.github.io/quizlet/quizizz/script.js";document.body.appendChild(l);}());
+```
+Alternate Script:
+```js
+(function(){let l=document.createElement("script");l.src="https://undercovermoose.github.io/quizizzjs/script.js";document.body.appendChild(l);}());
+```
