@@ -21,7 +21,7 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 <br>
 
 **Announcements:**
-- April 4 - Added 90+ Links!
+- April 4 - Added 90+ Links! + New formatting/organization!
 - April 3 - Sorted whole link dump and added a bunch of links (Itscharged)
 
 <!--
@@ -34,7 +34,7 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 - 2/23 - Thanks for 200 stars on this repository! I've added 300+ links and 2 new sites! (Check the updates /changes/log).
 -->
 ## Updates/Changes:
-### April 4. BIGGGG Update - Credits to @ItsCharged
+### April 4, 2026 - BIGGGG Update - Credits to @ItsCharged for help
 - Added 90+ Links, can be found under 2026-04-04
 - New [Twisted](#twisted) and [Petezah](#petezah) sites
 - Sorted link dump
@@ -50,39 +50,61 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 - 😬 Varying — Hit or miss, some links may be down
 > ⚠️ Sites marked **Has Ads** may show pop-ups or fake buttons, don't click on them!
 ---
-<!--
-> 🌟 New here? Try my recommendations: [I dont know which to include] first! -->
-- 5+ [Norepted](#norepted--yt-video-watcher) | YT video watcher | Status: Flourishing 💯
-- 5+ [Hypertabs](#hypertabs--web-browser) | web browser proxy | Status: Flourishing 💯
+> ### 🌟 New here? Start with these (or explore on your own):
+> | Site | Description |
+> |---|---|
+> | 🥇 [Duckmath](#duckmath--performance-games) | **Best games site.** 250+ games (Slope, Minecraft, Roblox), leaderboards, no ads |
+> | 🥈 [Truffled](#truffled) | **Simple & Effective.** Clean site, has proxy, games, and apps |
+> | 🥉 [Rammerhead](#rammerhead--chrome-like-proxy) | **Best Browser.** Feels like a real Chrome (might count you as a bot) |
+> | 🎖️ [Fern](#fern) | **Great backup.** Lots of links that are hard for filters to detect - has proxy, games, apps |
+> | 🎖️ [Hypertabs](#hypertabs--web-browser) | **Simplest.** It just works. |
+> | 🎖️ [Shadow v3](#shadow-v3) | **Solid.** Lots of links + good UI |
+> | 🎖️ [AI & Homework](#ai-and-homework-solvers) | **Best for studying.** Try Perplexity AI or Wolfram Alpha — they're free & no login needed |
+> |  [Links Resources](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md)  | **If all links are blocked, try going here for the most up to date links.**|
+
+--- 
+### 📺 Media
+- 5+ [Norepted](#norepted--yt-video-watcher) | YT video watcher, disguised | Status: Flourishing 💯
+- 3 [Infamous](#infamous--aio-king) | Has everything (movies) but very laggy | Status: Stable ✅ | Has Ads
+- Check out [Movies & Anime](https://github.com/wea-f/ByePassHub/blob/main/Movies%26Anime.md) for more!
+### 🎮Games
+- 40+ [Duckmath](#duckmath--performance-games) | 250+ GAMES | Status: Flourishing 💯
+- 5+ [Vapor](#vapor--a-lot-of-games) | games and proxy | Status: Varying 😬
+- 30+ [Selenite](#selenite--gaming-and-apps) | games and apps | Status: Stable ✅
+
+### 🌐 Proxies (Solid, clean, minimal unblockers)
+- 5+ [Hypertabs](#hypertabs--web-browser) | simple web browser proxy | Status: Flourishing 💯
+- 25+ [Rammerhead](#rammerhead--chrome-like-proxy) | Chrome-like proxy | Status: Flourishing 💯
+- 5+ [DayDreamX](#daydreamx) | Really customizable browser + Games | Status: Stable ✅
+- 15+ [Galaxy v6](#galaxy-v6--dark-os) | A whole operating system | Status: Varying 😬
+- 3 [Lucide](#lucide--good-ai) | proxy + good AI | Status: Stable ✅ | Has Ads
+- 5+ [Lunar v2](#lunar-v2) | Simple browser | Status: Stable ✅
+- 5+ [Quasar](#quasar) | proxy+games | Status: Stable ✅
+- 1 [LuminalOS](#luminalos) | A whole operating system | Status: Varying 😬
+- 15+ [Shadow v3](#shadow-v3) | Web Browser | Status: Varying 😬
+- 5+ [dogeub](#dogeub--very-clean) | clean proxy | Status: Stable ✅
+- 5+ [Rosin](#rosin) | Proxy (multic-ountry)+ AI | Status: Stable ✅
+- 10+ [Noblocc](#noblocc--insanely-stable) | Stable proxy | Status: Stable ✅
+- 5+ [Twisted](#twisted) | proxy | Status: Stable ✅
+
+### 🔧 All-in-ones (proxy, games, apps, ai, movies, etc - lots of features)
+- 5+ [Utopia](#utopia--proxy-games--ai) | proxy + games + AI | Status: Varying 😬 | Has Ads
+- 25+ [Truffled](#truffled) | Proxy games, apps | Status: Stable ✅
+- 5+ [Space](#space) | Fast proxy, games, apps | Status: Stable ✅
+- 3 [Infamous](#infamous--aio-king) | Has everything (movies) but very laggy | Status: Stable ✅ | Has Ads
+- 20+ [Endis](#endis--can-do-everythings) | Proxy, games, apps. Good cloak | Status: Varying 😬 | Has Ads
+- 10+ [Study Hub](#study-hub) | Proxy, games, apps, movies | Status: Varying 😬 | Has Ads
+- 10+ [VOID](#void--all-the-tools) | PRoxy, games, apps, movies, AI, everything | Status: Stable ✅ | Has Ads
+- 5+ [TGLSC](#tglsc--more-apps-then-the-app-store) | proxy, games, TONS of apps | Status: Stable ✅
+- 15+ [Awperator](#awperator--all-in-one) | proxy, games, apps, ai | Status: Stable ✅
+- 25+ [Fern](#fern) | Proxy, games, apps | Status: Flourishing 💯
+- 2 [Petezah](#petezah) | Proxy, games, apps, ai | Status: Stable ✅
+
+### 🤖 AI and 
 - 30+ [AI and Homework Solvers](#ai-and-homework-solvers) | good AI + homework help | Status: Varying 😬
+### 💬 Other Resources
 - 20+ [Proxy Discord Servers](#proxy-discord-servers) | community link drops | Status: Flourishing 💯
 - 15+ [Other Lists Like This One](#other-lists-like-this-one--games-proxies-movies-and-even-more-links--links-may-or-may-not-work) | link collections | Status: Varying 😬
-- 30+ [Selenite](#selenite--gaming-and-apps) | games + apps | Status: Stable ✅
-- 25+ [Rammerhead](#rammerhead--chrome-like-proxy) | Chrome-like proxy | Status: Flourishing 💯
-- 5+ [Utopia](#utopia--proxy-games--ai) | proxy + games + AI | Status: Varying 😬 | Has Ads
-- 25+ [Truffled](#truffled) | proxy | Status: Stable ✅
-- 5+ [Space](#space) | proxy | Status: Stable ✅
-- 5+ [DayDreamX](#daydreamx) | proxy | Status: Stable ✅
-- 40+ [Duckmath](#duckmath--performance-games) | arcade games | Status: Flourishing 💯
-- 15+ [Galaxy v6](#galaxy-v6--dark-os) | dark OS proxy | Status: Varying 😬
-- 3 [Infamous](#infamous--aio-king) | has everything | Status: Stable ✅ | Has Ads
-- 20+ [Endis](#endis--can-do-everythings) | has everything | Status: Varying 😬 | Has Ads
-- 10+ [Study Hub](#study-hub) | study proxy | Status: Varying 😬 | Has Ads
-- 3 [Lucide](#lucide--good-ai) | good AI | Status: Stable ✅ | Has Ads
-- 10+ [VOID](#void--all-the-tools) | all the tools | Status: Stable ✅ | Has Ads
-- 5+ [Lunar v2](#lunar-v2) | simple browser proxy | Status: Stable ✅
-- 5+ [TGLSC](#tglsc--more-apps-then-the-app-store) | tons of apps | Status: Stable ✅
-- 5+ [Quasar](#quasar) | proxy | Status: Stable ✅
-- 15+ [Awperator](#awperator--all-in-one) | all-in-one | Status: Stable ✅
-- 1 [LuminalOS](#luminalos) | OS-style proxy | Status: Varying 😬
-- 15+ [Shadow v3](#shadow-v3) | proxy | Status: Varying 😬
-- 5+ [Vapor](#vapor--a-lot-of-games) | games | Status: Varying 😬
-- 5+ [dogeub](#dogeub--very-clean) | clean proxy | Status: Stable ✅
-- 5+ [Rosin](#rosin) | multi-country proxy | Status: Stable ✅
-- 10+ [Noblocc](#noblocc--insanely-stable) | super stable proxy | Status: Stable ✅
-- 25+ [Fern](#fern) | proxy | Status: Flourishing 💯
-- 5+ [Twisted](#twisted) | proxy | Status: Stable ✅
-- 2 [Petezah](#petezah) | proxy | Status: Stable ✅
 ---
 
 ## website title | what it contains | any note if needed
