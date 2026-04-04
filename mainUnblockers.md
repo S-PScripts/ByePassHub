@@ -1,4 +1,4 @@
-# ByePassHub > Main Links | updated March 28
+# ByePassHub > Main Links | updated April 3
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies, games, AI, and apps. <br>
 
@@ -21,7 +21,9 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 <br> <br>
 
 **Announcements:**
-- April 3 - Sorted whole link dump and added a bunch of links (Itscharged :P)
+- April 3 - Sorted whole link dump and added a bunch of links (Itscharged)
+
+<!--
 - March 28 - MOST UPDATED LINKS ARE FOUND [HERE](#link-dump) FROM NOW ON!!
 - Jan 4 - Happy New Year, found 100+ links, go [here](#link-dump), or scroll down until you see "Link Dump."
 - November 7 - Rechecked ALL Links, added more (new Ghosted and Vapor Sites!) too!!
@@ -29,11 +31,22 @@ This is a collection of links of proxies, games, AI, and apps. <br>
 - June 8 - Fixed some non working proxies (some have shutdown for the summer!)
 - 5/4 - [BYEPASSHUB GOOGLE DOC LAUNCHED (v2)](https://docs.google.com/document/d/1BC-_DkqMcnJDN2hQWWZCjB-Gp-U2CVtznrVOIP-mRv4/edit?usp=sharing)
 - 2/23 - Thanks for 200 stars on this repository! I've added 300+ links and 2 new sites! (Check the updates /changes/log).
-
+-->
 ## Updates/Changes:
+<!--
+Links added in an update are **guranteed** to be working as of that day. <br>
+However, links added in previous updates sometimes **stops working** after a while. <br>
+To find the newly added links in the update, **look for the heading that contains the update date, and use the links under it.** 
+  > For example: Dec 25 Links: <br>-->
+<!--
+### January 4 & 19 & 26, 2026 and April 3 - Added 400+ Links, includes 15+ NEW sites!!
+- Link Dump: Scroll down to [here](#link-dump)
+  - Consists of Selenite, gn math, some shadow, as well as some new sites that I found. 
+-->
 
-### April 4. BIGGGG Update
-- I completly sorted the link dump and even added a bunch of links from the offical Servers or own usage
+### April 4. BIGGGG Update - Credits to @ItsCharged
+- Sorted link dump
+- Added 350+ Links, UPDATED + Working!
 
 <br>
 
