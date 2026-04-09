@@ -10,7 +10,7 @@ FYI: **"Proxies" = "Unblockers"** <br>
 - **How to make your OWN unblocker link tutorial:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/MakeYourOwnLink.md) or to go to the MakeYourOwnLink.md file.<br>
 - **180+ Games (Minecraft, Roblox):** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Games.md) or go to the Games.md file <br>
 
-### Explore Cheats, Exploits, and iPad Unblockers
+### Explore Tools, Exploits, and iPad Utilities
 - **15+ Kahoot, Gimkit, Blooket (and more) Cheats:** Go [here](https://github.com/wea-f/ByePassHub//blob/main/Cheats.md) or go to the Cheats.md file. <br>
 - **90+ Exploits, Bypasses, Bookmarklets:** Go [here](https://github.com/wea-f/ByePassHub/tree/main/Exploits/README.md) <br>
 - **5+ Apple Shortcuts:** Go [here](https://github.com/wea-f/ByePassHub/blob/main/Shortcut%20Programs.md) or go to the Shortcut Programs.md file. <br>
