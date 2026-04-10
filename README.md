@@ -1,3 +1,7 @@
+# WEA-F AND HIS REPO WAS TAKEN DOWN, BUT I WAS ABLE TO SYNC THIS FORK TO THE LATEST COMMIT ON HIS ANYWAY
+# LOOK AT https://github.com/S-PScripts/chromebook-utilities FOR MORE STUFF
+
+
 # ByePassHub | Main Hub
 ## If you like this collection, make sure to star it! 🌠🌠🌠
 
